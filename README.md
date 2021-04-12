@@ -3,3 +3,4 @@ In this assignment, you are going to create the UI of the HighOnCoding website u
 
 Styling is not mandatory. The main purpose of this group discussion is to talk about how would you divide the website into smaller components.
 
+![image](https://github.com/Andres-Andretti/HighOnCoding/blob/master/HighOnCoding.png)
