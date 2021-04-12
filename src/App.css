@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.allContent {
+  margin: 10px;
+}
+
+.articleTitle {
+  color: blue;
+}
+
+.postStats {
+  background-color: orange;
+  height: 25px;
+  color: white;
+  font-weight: bolder;
+}
